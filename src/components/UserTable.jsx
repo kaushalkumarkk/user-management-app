@@ -76,7 +76,7 @@ export default function UserTable() {
       <div className="overflow-x-auto">
         <table className="min-w-full table-auto border border-gray-300 shadow-sm">
           <thead>
-            <tr className="bg-gray-100 text-gray-700 text-left">
+            <tr className="bg-pink-100 text-gray-700 text-left">
               <th className="border p-3">First Name</th>
               <th className="border p-3">Last Name</th>
               <th className="border p-3 text-center">Status</th>
